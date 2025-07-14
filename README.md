@@ -1,2 +1,2 @@
 # cpassmanager
-Smple console password manager
+Simple console password manager
